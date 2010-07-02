@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/puppet"
+    }
+  ],
+  "name": "ghoneycutt-lmsensors",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "f1b53dfb10fba8835bfad1f8b559be08",
+    "tests/init.pp": "8bde8c764b2754c72314737f616b8a0a",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "c9cc917a40252ea907f8210e415605cf",
+    "manifests/init.pp": "f2219239172cd8cbd097fd6bd2e3698e"
+  },
+  "types": [
+
+  ]
+}
